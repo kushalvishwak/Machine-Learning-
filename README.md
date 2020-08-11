@@ -1,5 +1,9 @@
 #### Pre-Modeling: Data Preprocessing and Feature Exploration in Python
 
+#### Adult Data Set
+Download: Data Folder, Data Set Description
+
+Abstract: Predict whether income exceeds $50K/yr based on census data. Also known as "Census Income" dataset.
 
 This repo contains several files:
 
